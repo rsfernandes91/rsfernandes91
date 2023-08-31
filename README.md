@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Vue
 - 💬 Ask me about... Angular, fantasy books and games
-- ⚡ Fun fact: I read Harry Potter saga in seven days and got a headache of 3 days after.
+- ⚡ Fun fact: I read the entire Harry Potter saga in 7 days and had a headache for 3 days after.
 
 - #### What I like to do 👨‍💻
 
