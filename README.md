@@ -1,5 +1,5 @@
 <h3 align="left">Hello there 👋 My name is Rafael Fernandes</h3>
-<h5>I'm a Brazilian software engineer and bookwork <br> </h5>
+<h5>I'm a Brazilian software engineer and bookworm <br> </h5>
 
 - 🌱 I’m currently learning Vue
 - 💬 Ask me about... Angular, fantasy books and games
